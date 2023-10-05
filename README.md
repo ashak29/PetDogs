@@ -1,3 +1,3 @@
 # PetDogs
 
-Simple Website
+Simple Website for PetDogS
